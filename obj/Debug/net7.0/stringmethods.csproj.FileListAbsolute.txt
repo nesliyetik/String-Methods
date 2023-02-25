@@ -1,0 +1,15 @@
+C:\Pratikler\stringmethods\obj\Debug\net7.0\stringmethods.csproj.AssemblyReference.cache
+C:\Pratikler\stringmethods\obj\Debug\net7.0\stringmethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pratikler\stringmethods\obj\Debug\net7.0\stringmethods.AssemblyInfoInputs.cache
+C:\Pratikler\stringmethods\obj\Debug\net7.0\stringmethods.AssemblyInfo.cs
+C:\Pratikler\stringmethods\obj\Debug\net7.0\stringmethods.csproj.CoreCompileInputs.cache
+C:\Pratikler\stringmethods\bin\Debug\net7.0\stringmethods.exe
+C:\Pratikler\stringmethods\bin\Debug\net7.0\stringmethods.deps.json
+C:\Pratikler\stringmethods\bin\Debug\net7.0\stringmethods.runtimeconfig.json
+C:\Pratikler\stringmethods\bin\Debug\net7.0\stringmethods.dll
+C:\Pratikler\stringmethods\bin\Debug\net7.0\stringmethods.pdb
+C:\Pratikler\stringmethods\obj\Debug\net7.0\stringmethods.dll
+C:\Pratikler\stringmethods\obj\Debug\net7.0\refint\stringmethods.dll
+C:\Pratikler\stringmethods\obj\Debug\net7.0\stringmethods.pdb
+C:\Pratikler\stringmethods\obj\Debug\net7.0\stringmethods.genruntimeconfig.cache
+C:\Pratikler\stringmethods\obj\Debug\net7.0\ref\stringmethods.dll
